@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OnThiCuoiKy:jar">
+    <output-path>$PROJECT_DIR$/../OnThiCuoiKy_Client/libs</output-path>
+    <root id="archive" name="OnThiCuoiKy.jar">
+      <element id="module-output" name="OnThiCuoiKy" />
+    </root>
+  </artifact>
+</component>
